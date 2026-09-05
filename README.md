@@ -1,16 +1,22 @@
-## Hi there 👋
+# Omar Ahmed
 
-<!--
-**omarahmed321/omarahmed321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer building web applications with Next.js, React and Tailwind CSS.
 
-Here are some ideas to get you started:
+I started with plain HTML, CSS and JavaScript, and moved on to full applications
+with authentication and a real database.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- **Frontend** — Next.js (App Router), React, JavaScript (ES6+), HTML5, CSS3
+- **Styling** — Tailwind CSS, Bootstrap, DaisyUI, responsive design
+- **Data** — Supabase (Auth, PostgreSQL, Row-Level Security), REST APIs
+- **Tools** — Git, npm, Vercel, ESLint
+
+## Right now
+
+Going deeper into Next.js and Supabase — building with them regularly to get
+properly comfortable rather than just getting things working.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/omar-ahmed-a13425395/) · omarahmedgodabmox@gmail.com
