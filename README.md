@@ -5,17 +5,17 @@ Frontend developer building modern web applications with Next.js, React, and Tai
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,supabase,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,supabase" alt="Tech Stack" />
 </p>
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,js" alt="Programming Languages" />
 </p>
 
 ### Tools and Utilities
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,npm,vercel,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,npm,vercel,vscode" alt="Tools" />
 </p>
 
 ### Connect with me
