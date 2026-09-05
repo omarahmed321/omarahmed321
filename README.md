@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60d311cb-ccc8-433a-9c11-e51303fb21d7" width="200" alt="" />
+</p>
+
 # Omar Ahmed
 
 Frontend developer building web applications with Next.js, React and Tailwind CSS.
@@ -19,4 +23,4 @@ properly comfortable rather than just getting things working.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/omar-ahmed-a13425395/) · omarahmedgodabmox@gmail.com
+[LinkedIn](https://www.linkedin.com/in/omar-ahmed-a13425395/) ·
