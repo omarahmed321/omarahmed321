@@ -1,21 +1,13 @@
-<table>
-<tr>
-<td width="72%" valign="top">
+<img align="right" width="230" src="https://github.com/user-attachments/assets/60d311cb-ccc8-433a-9c11-e51303fb21d7" alt="" />
 
 # Omar Ahmed
 
 Frontend developer building web applications with Next.js, React and Tailwind CSS.
 
-I started with plain HTML, CSS and JavaScript, and moved on to full applications with authentication and a real database.
+I started with plain HTML, CSS and JavaScript, and moved on to full
+applications with authentication and a real database.
 
-</td>
-<td width="28%" valign="top">
-
-<img src="https://github.com/user-attachments/assets/60d311cb-ccc8-433a-9c11-e51303fb21d7" width="100%" alt="" />
-
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 ## What I work with
 
