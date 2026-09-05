@@ -4,9 +4,6 @@
 
 Frontend developer building web applications with Next.js, React and Tailwind CSS.
 
-I started with plain HTML, CSS and JavaScript, and moved on to full
-applications with authentication and a real database.
-
 <br clear="both" />
 
 ## What I work with
@@ -18,7 +15,7 @@ applications with authentication and a real database.
 
 ## Right now
 
-Going deeper into Next.js and Supabase — building with them regularly to get properly comfortable rather than just getting things working.
+Going deeper into Next.js and Supabase.
 
 ## Contact
 
